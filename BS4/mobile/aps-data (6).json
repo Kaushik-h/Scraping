@@ -1,0 +1,1138 @@
+{
+	"bars": {
+		"115": {
+			"id": 115,
+			"slug": "%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9",
+			"name": "\u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629",
+			"desc": "",
+			"val": "7"
+		},
+		"117": {
+			"id": 117,
+			"slug": "%d8%a7%d9%84%d8%a3%d8%af%d8%a7%d8%a1",
+			"name": "\u0627\u0644\u0623\u062f\u0627\u0621",
+			"desc": "Usability of Camera interface, image and video quality in different light conditions and environment.",
+			"val": "5"
+		},
+		"120": {
+			"id": 120,
+			"slug": "%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7",
+			"name": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627",
+			"desc": "",
+			"val": "6"
+		},
+		"121": {
+			"id": 121,
+			"slug": "%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a9",
+			"name": "\u0627\u0644\u0634\u0627\u0634\u0629",
+			"desc": "",
+			"val": "5"
+		},
+		"124": {
+			"id": 124,
+			"slug": "%d8%a7%d9%84%d8%aa%d8%b5%d9%85%d9%8a%d9%85",
+			"name": "\u0627\u0644\u062a\u0635\u0645\u064a\u0645",
+			"desc": "",
+			"val": "6"
+		}
+	},
+	"attrs": {
+		"183": {
+			"id": 183,
+			"slug": "infrared",
+			"name": "Infrared",
+			"desc": "\u003Cstrong\u003EInfrared\u003C\/strong\u003E connectivity is an old wireless technology used to connect two electronic devices. It uses a beam of infrared light to transmit information and so requires direct line of sight and operates only at close range.",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"195": {
+			"id": 195,
+			"slug": "nfc",
+			"name": "NFC",
+			"desc": "\u003Cstrong\u003ENFC\u003C\/strong\u003E (Near field communication) is a set of standards for smartphones and similar devices to establish peer-to-peer radio communications with each other by touching them together or bringing them into proximity, usually no more than a few inches.",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"240": {
+			"id": 240,
+			"slug": "usb",
+			"name": "USB",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"253": {
+			"id": 253,
+			"slug": "wi-fi",
+			"name": "Wi-fi",
+			"desc": "\u003Cstrong\u003EWi-Fi\u003C\/strong\u003E is a popular wireless networking technology using radio waves to provide high-speed network connections that allows devices to communicate without cords or cables, Wi-Fi is increasingly becoming the preferred mode of internet connectivity all over the world.",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"254": {
+			"id": 254,
+			"slug": "wi-fi-hotspot",
+			"name": "Wi-fi Hotspot",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"393": {
+			"id": 393,
+			"slug": "%d8%a3%d8%b9%d9%84%d9%86-%d8%b9%d9%86%d9%87",
+			"name": "\u0623\u0639\u0644\u0646 \u0639\u0646\u0647",
+			"desc": "",
+			"meta": {
+				"type": "date"
+			}
+		},
+		"398": {
+			"id": 398,
+			"slug": "%d8%a7%d9%84%d8%a3%d8%a8%d8%b9%d8%a7%d8%af",
+			"name": "\u0627\u0644\u0623\u0628\u0639\u0627\u062f",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"401": {
+			"id": 401,
+			"slug": "%d8%a7%d9%84%d8%a7%d9%84%d9%88%d8%a7%d9%86",
+			"name": "\u0627\u0644\u0627\u0644\u0648\u0627\u0646",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"394": {
+			"id": 394,
+			"slug": "%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9",
+			"name": "\u0627\u0644\u062d\u0627\u0644\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"405": {
+			"id": 405,
+			"slug": "%d8%a7%d9%84%d8%af%d9%82%d8%a9",
+			"name": "\u0627\u0644\u062f\u0642\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"416": {
+			"id": 416,
+			"slug": "%d8%a7%d9%84%d8%b1%d8%a7%d9%85",
+			"name": "\u0627\u0644\u0631\u0627\u0645",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"425": {
+			"id": 425,
+			"slug": "%d8%a7%d9%84%d8%b3%d8%b9%d8%a9",
+			"name": "\u0627\u0644\u0633\u0639\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"433": {
+			"id": 433,
+			"slug": "%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9",
+			"name": "\u0627\u0644\u0633\u0645\u0627\u0639\u0627\u062a \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"437": {
+			"id": 437,
+			"slug": "%d8%a7%d9%84%d8%b9%d9%84%d8%a8%d8%a9-%d8%a8%d9%87%d8%a7-%d8%b3%d9%85%d8%a7%d8%b9%d8%a7%d8%aa",
+			"name": "\u0627\u0644\u0639\u0644\u0628\u0629 \u0628\u0647\u0627 \u0633\u0645\u0627\u0639\u0627\u062a",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"410": {
+			"id": 410,
+			"slug": "%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88",
+			"name": "\u0627\u0644\u0641\u064a\u062f\u064a\u0648",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"413": {
+			"id": 413,
+			"slug": "%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d9%85%d9%8a%d8%a9",
+			"name": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627 \u0627\u0644\u0623\u0645\u0627\u0645\u064a\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"409": {
+			"id": 409,
+			"slug": "%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d8%a7%d9%84%d8%ae%d9%84%d9%81%d9%8a%d8%a9",
+			"name": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627 \u0627\u0644\u062e\u0644\u0641\u064a\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"417": {
+			"id": 417,
+			"slug": "%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ad%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9",
+			"name": "\u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"422": {
+			"id": 422,
+			"slug": "%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d8%b9%d8%b1%d8%a7%d8%aa",
+			"name": "\u0627\u0644\u0645\u0633\u062a\u0634\u0639\u0631\u0627\u062a",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"414": {
+			"id": 414,
+			"slug": "%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%84%d8%ac",
+			"name": "\u0627\u0644\u0645\u0639\u0627\u0644\u062c",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"404": {
+			"id": 404,
+			"slug": "%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b3",
+			"name": "\u0627\u0644\u0645\u0642\u0627\u0633",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"426": {
+			"id": 426,
+			"slug": "%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86",
+			"name": "\u0627\u0644\u0645\u0643\u0627\u0646",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"391": {
+			"id": 391,
+			"slug": "%d8%a7%d9%84%d9%86%d9%88%d8%b9",
+			"name": "\u0627\u0644\u0646\u0648\u0639",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"406": {
+			"id": 406,
+			"slug": "%d8%a7%d9%84%d9%88%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a9",
+			"name": "\u0627\u0644\u0648\u0627\u0646 \u0627\u0644\u0634\u0627\u0634\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"399": {
+			"id": 399,
+			"slug": "%d8%a7%d9%84%d9%88%d8%b2%d9%86",
+			"name": "\u0627\u0644\u0648\u0632\u0646",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"419": {
+			"id": 419,
+			"slug": "%d8%a8%d8%b5%d9%85%d8%a9-%d8%a7%d9%84%d8%a5%d8%b5%d8%a8%d8%b9",
+			"name": "\u0628\u0635\u0645\u0629 \u0627\u0644\u0625\u0635\u0628\u0639",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"431": {
+			"id": 431,
+			"slug": "%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab",
+			"name": "\u0628\u0644\u0648\u062a\u0648\u062b",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"397": {
+			"id": 397,
+			"slug": "%d8%ab%d9%86%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d8%ad%d8%a9",
+			"name": "\u062b\u0646\u0627\u0626\u064a \u0627\u0644\u0634\u0631\u064a\u062d\u0629",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"432": {
+			"id": 432,
+			"slug": "%d8%ac%d9%8a-%d8%a8%d9%8a-%d8%a7%d8%b3",
+			"name": "\u062c\u064a \u0628\u064a \u0627\u0633",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"408": {
+			"id": 408,
+			"slug": "%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a9",
+			"name": "\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0634\u0627\u0634\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"400": {
+			"id": 400,
+			"slug": "%d8%ae%d8%a7%d9%85%d8%a9-%d8%b8%d9%87%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a8%d8%a7%d9%8a%d9%84",
+			"name": "\u062e\u0627\u0645\u0629 \u0638\u0647\u0631 \u0627\u0644\u0645\u0648\u0628\u0627\u064a\u0644",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"411": {
+			"id": 411,
+			"slug": "%d8%ae%d8%b5%d8%a7%d8%a6%d8%b5-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7",
+			"name": "\u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"434": {
+			"id": 434,
+			"slug": "%d8%af%d8%b1%d8%ac%d8%a9-%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa",
+			"name": "\u062f\u0631\u062c\u0629 \u0627\u0631\u062a\u0641\u0627\u0639 \u0627\u0644\u0635\u0648\u062a",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"435": {
+			"id": 435,
+			"slug": "%d8%b1%d8%a7%d8%af%d9%8a%d9%88-fm",
+			"name": "\u0631\u0627\u062f\u064a\u0648 FM",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"420": {
+			"id": 420,
+			"slug": "%d8%b3%d8%b1%d8%b9%d8%a9-%d8%a7%d9%84%d8%a8%d8%b5%d9%85%d8%a9",
+			"name": "\u0633\u0631\u0639\u0629 \u0627\u0644\u0628\u0635\u0645\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"125": {
+			"id": 125,
+			"slug": "%d8%b4%d8%a8%d9%83%d8%a9-2g",
+			"name": "\u0634\u0628\u0643\u0629 2G",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"126": {
+			"id": 126,
+			"slug": "%d8%b4%d8%a8%d9%83%d8%a9-3g",
+			"name": "\u0634\u0628\u0643\u0629 3G",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"127": {
+			"id": 127,
+			"slug": "%d8%b4%d8%a8%d9%83%d8%a9-4g",
+			"name": "\u0634\u0628\u0643\u0629 4G",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"439": {
+			"id": 439,
+			"slug": "%d8%b4%d8%a8%d9%83%d8%a9-5g",
+			"name": "\u0634\u0628\u0643\u0629 5G",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"427": {
+			"id": 427,
+			"slug": "%d8%b4%d8%ad%d9%86-%d8%b3%d8%b1%d9%8a%d8%b9",
+			"name": "\u0634\u062d\u0646 \u0633\u0631\u064a\u0639",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"430": {
+			"id": 430,
+			"slug": "%d8%b4%d8%ad%d9%86-%d9%84%d8%a7%d8%b3%d9%84%d9%83%d9%8a",
+			"name": "\u0634\u062d\u0646 \u0644\u0627\u0633\u0644\u0643\u064a",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"421": {
+			"id": 421,
+			"slug": "%d8%b6%d9%88%d8%a1-%d8%a7%d9%84%d8%a5%d8%b4%d8%b9%d8%a7%d8%b1%d8%a7%d8%aa",
+			"name": "\u0636\u0648\u0621 \u0627\u0644\u0625\u0634\u0639\u0627\u0631\u0627\u062a",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"412": {
+			"id": 412,
+			"slug": "%d9%81%d9%84%d8%a7%d8%b4-%d8%ae%d9%84%d9%81%d9%8a",
+			"name": "\u0641\u0644\u0627\u0634 \u062e\u0644\u0641\u064a",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"428": {
+			"id": 428,
+			"slug": "%d9%82%d9%88%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d8%ad%d9%86",
+			"name": "\u0642\u0648\u0629 \u0627\u0644\u0634\u0627\u062d\u0646",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"395": {
+			"id": 395,
+			"slug": "%d9%82%d9%88%d8%a9-%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d8%a9",
+			"name": "\u0642\u0648\u0629 \u0627\u0644\u0634\u0628\u0643\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"407": {
+			"id": 407,
+			"slug": "%d9%83%d8%ab%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d9%83%d8%b3%d9%84",
+			"name": "\u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u0628\u064a\u0643\u0633\u0644",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"418": {
+			"id": 418,
+			"slug": "%d9%85%d8%af%d8%ae%d9%84-%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9",
+			"name": "\u0645\u062f\u062e\u0644 \u0627\u0644\u0630\u0627\u0643\u0631\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"436": {
+			"id": 436,
+			"slug": "%d9%85%d8%af%d8%ae%d9%84-%d8%b3%d9%85%d8%a7%d8%b9%d8%a7%d8%aa",
+			"name": "\u0645\u062f\u062e\u0644 \u0633\u0645\u0627\u0639\u0627\u062a",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"415": {
+			"id": 415,
+			"slug": "%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%85%d9%8a%d8%a7%d8%aa",
+			"name": "\u0645\u0639\u0627\u0644\u062c \u0627\u0644\u0631\u0633\u0648\u0645\u064a\u0627\u062a",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"402": {
+			"id": 402,
+			"slug": "%d9%85%d9%82%d8%a7%d9%88%d9%85-%d9%84%d9%84%d9%85%d8%a7%d8%a1",
+			"name": "\u0645\u0642\u0627\u0648\u0645 \u0644\u0644\u0645\u0627\u0621",
+			"desc": "",
+			"meta": {
+				"type": "check"
+			}
+		},
+		"392": {
+			"id": 392,
+			"slug": "%d9%85%d9%88%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81",
+			"name": "\u0645\u0648\u062f\u064a\u0644 \u0627\u0644\u0647\u0627\u062a\u0641",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"423": {
+			"id": 423,
+			"slug": "%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84",
+			"name": "\u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"403": {
+			"id": 403,
+			"slug": "%d9%86%d9%88%d8%b9-%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a9",
+			"name": "\u0646\u0648\u0639 \u0627\u0644\u0634\u0627\u0634\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"396": {
+			"id": 396,
+			"slug": "%d9%86%d9%88%d8%b9-%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d8%ad%d8%a9",
+			"name": "\u0646\u0648\u0639 \u0627\u0644\u0634\u0631\u064a\u062d\u0629",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		},
+		"424": {
+			"id": 424,
+			"slug": "%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85",
+			"name": "\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0625\u0633\u062a\u062e\u062f\u0627\u0645",
+			"desc": "",
+			"meta": {
+				"type": "text"
+			}
+		}
+	},
+	"groups": {
+		"438": {
+			"id": 438,
+			"slug": "%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%b9%d8%a7%d9%85%d8%a9",
+			"name": "\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0639\u0627\u0645\u0629",
+			"icon": "resize-full",
+			"attrs": ["391", "392", "393", "394"]
+		},
+		"440": {
+			"id": 440,
+			"slug": "%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d8%a9",
+			"name": "\u0627\u0644\u0634\u0628\u0643\u0629",
+			"icon": "tower",
+			"attrs": ["125", "126", "127", "439", "395", "396", "397"]
+		},
+		"441": {
+			"id": 441,
+			"slug": "%d8%a7%d9%84%d8%aa%d8%b5%d9%85%d9%8a%d9%85",
+			"name": "\u0627\u0644\u062a\u0635\u0645\u064a\u0645",
+			"icon": "colors",
+			"attrs": ["398", "399", "400", "401", "402"]
+		},
+		"442": {
+			"id": 442,
+			"slug": "%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a9",
+			"name": "\u0627\u0644\u0634\u0627\u0634\u0629",
+			"icon": "display",
+			"attrs": ["403", "404", "405", "406", "407", "408"]
+		},
+		"443": {
+			"id": 443,
+			"slug": "%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7",
+			"name": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627",
+			"icon": "camera",
+			"attrs": ["409", "410", "411", "412", "413"]
+		},
+		"444": {
+			"id": 444,
+			"slug": "%d9%87%d8%a7%d8%b1%d8%af-%d9%88%d9%8a%d8%b1",
+			"name": "\u0647\u0627\u0631\u062f \u0648\u064a\u0631",
+			"icon": "gears",
+			"attrs": ["414", "415", "416", "417", "418", "419", "420", "421", "422"]
+		},
+		"445": {
+			"id": 445,
+			"slug": "%d8%b3%d9%88%d9%81%d8%aa-%d9%88%d9%8a%d8%b1",
+			"name": "\u0633\u0648\u0641\u062a \u0648\u064a\u0631",
+			"icon": "android",
+			"attrs": ["423", "424"]
+		},
+		"446": {
+			"id": 446,
+			"slug": "%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9",
+			"name": "\u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629",
+			"icon": "battery",
+			"attrs": ["425", "426", "427", "428", "430"]
+		},
+		"447": {
+			"id": 447,
+			"slug": "%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa",
+			"name": "\u0627\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062a",
+			"icon": "remote",
+			"attrs": ["431", "253", "254", "240", "195", "432", "183"]
+		},
+		"448": {
+			"id": 448,
+			"slug": "%d8%a7%d9%84%d8%b5%d9%88%d8%aa-%d9%88-%d8%a7%d9%84%d9%88%d8%b3%d8%a7%d8%a6%d8%b7",
+			"name": "\u0627\u0644\u0635\u0648\u062a \u0648 \u0627\u0644\u0648\u0633\u0627\u0626\u0637",
+			"icon": "media",
+			"attrs": ["433", "434", "435", "436", "437"]
+		}
+	},
+	"cats": {
+		"291": {
+			"name": "\u062d\u0648\u0627\u0633\u064a\u0628 \u0645\u062d\u0645\u0648\u0644\u0629",
+			"slug": "%d8%ad%d9%88%d8%a7%d8%b3%d9%8a%d8%a8-%d9%85%d8%ad%d9%85%d9%88%d9%84%d8%a9",
+			"desc": "",
+			"display": "both",
+			"image": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/cat-laptops.jpg",
+			"parent": "",
+			"features": [{
+				"name": "Processor",
+				"icon": "cpu"
+			}, {
+				"name": "Display",
+				"icon": "laptop"
+			}, {
+				"name": "RAM",
+				"icon": "ram"
+			}, {
+				"name": "Storage",
+				"icon": "hdd"
+			}, {
+				"name": "Web Cam",
+				"icon": "webcam"
+			}, {
+				"name": "OS",
+				"icon": "windows"
+			}],
+			"groups": null,
+			"bars": ["124", "121", "115", "117"],
+			"filters": null
+		},
+		"292": {
+			"name": "\u0647\u0648\u0627\u062a\u0641 \u0630\u0643\u064a\u0629",
+			"slug": "%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b0%d9%83%d9%8a%d8%a9",
+			"desc": "",
+			"display": "both",
+			"image": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/cat-mobiles.jpg",
+			"parent": "",
+			"features": [{
+				"name": "\u0627\u0644\u0645\u0639\u0627\u0644\u062c",
+				"icon": "cpu"
+			}, {
+				"name": "\u0627\u0644\u062a\u062e\u0632\u064a\u0646 \/ \u0627\u0644\u0631\u0627\u0645",
+				"icon": "ram"
+			}, {
+				"name": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627",
+				"icon": "camera"
+			}, {
+				"name": "\u0627\u0644\u0634\u0627\u0634\u0629",
+				"icon": "display"
+			}, {
+				"name": "\u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644",
+				"icon": "gears"
+			}, {
+				"name": "\u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629",
+				"icon": "battery"
+			}],
+			"groups": ["438", "440", "441", "442", "443", "444", "445", "446", "447", "448"],
+			"bars": ["115", "117", "120", "121", "124"],
+			"filters": null
+		}
+	},
+	"brands": {
+		"293": {
+			"name": "Samsung",
+			"desc": "",
+			"filters": [279, 280, 281, 282, 283, 284, 285, 286, 287],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/samsung.jpg"
+		},
+		"294": {
+			"name": "\u0622\u0628\u0644",
+			"desc": "This is an example of brand description text which you can add from brand add\/edit panel.",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/apple.jpg"
+		},
+		"295": {
+			"name": "\u0646\u0648\u0643\u064a\u0627",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/nokia.jpg"
+		},
+		"296": {
+			"name": "\u0622\u062a\u0634 \u062a\u064a \u0633\u064a",
+			"desc": "",
+			"filters": [279, 280, 281, 282, 283, 284, 285, 286, 287],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/htc.jpg"
+		},
+		"297": {
+			"name": "Sony",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/sony.jpg"
+		},
+		"298": {
+			"name": "\u0625\u0644\u062c\u064a",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/lg.jpg"
+		},
+		"299": {
+			"name": "\u0645\u0648\u062a\u0648\u0631\u0648\u0644\u0627",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/motorola.jpg"
+		},
+		"300": {
+			"name": "QMobile",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/q-mobile.jpg"
+		},
+		"301": {
+			"name": "\u0622\u062a\u0634 \u0628\u064a",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/hp.jpg"
+		},
+		"302": {
+			"name": "\u062f\u064a\u0644",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/dell.jpg"
+		},
+		"303": {
+			"name": "\u0647\u0648\u0627\u0648\u064a",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/huawei.jpg"
+		},
+		"304": {
+			"name": "Oppo",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/oppo-logo.png"
+		},
+		"378": {
+			"name": "\u0623\u0644\u0643\u0627\u062a\u064a\u0644",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/alcatel.png"
+		},
+		"381": {
+			"name": "\u0647\u0648\u0646\u0648\u0631",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/honor2.png"
+		},
+		"382": {
+			"name": "\u0627\u0646\u0641\u064a\u0646\u0643\u0633",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/infinix2.png"
+		},
+		"383": {
+			"name": "\u0645\u064a\u0632\u0648",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/meizu.png"
+		},
+		"384": {
+			"name": "\u0645\u0627\u064a\u0643\u0631\u0648\u0633\u0648\u0641\u062a",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/microsoft.png"
+		},
+		"385": {
+			"name": "\u0644\u0648\u0646\u0648\u0641\u0648",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/lenovo.png"
+		},
+		"387": {
+			"name": "\u0648\u0627\u0646 \u0628\u0644\u0633",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/oneplus.png"
+		},
+		"388": {
+			"name": "others",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/others-logo-80x80-1.png"
+		},
+		"389": {
+			"name": "realme",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/realme.png"
+		},
+		"390": {
+			"name": "zte",
+			"desc": "",
+			"filters": "",
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/zte.png"
+		},
+		"598": {
+			"name": "\u0634\u064a\u0627\u0648\u0645\u064a",
+			"desc": "",
+			"filters": [],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/xiaomi.png"
+		},
+		"599": {
+			"name": "\u0631\u064a\u0644\u0645\u064a",
+			"desc": "",
+			"filters": [],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/realme-1.png"
+		},
+		"600": {
+			"name": "\u0641\u064a\u0641\u0648",
+			"desc": "",
+			"filters": [],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/vivo-logo.png"
+		},
+		"601": {
+			"name": "\u062a\u0643\u0646\u0648",
+			"desc": "",
+			"filters": [],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/tecno.png"
+		},
+		"602": {
+			"name": "\u0633\u0648\u0646\u064a",
+			"desc": "",
+			"filters": [],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/sony.png"
+		},
+		"603": {
+			"name": "\u0645\u0627\u0631\u0643\u0627\u062a \u0623\u062e\u0631\u0649",
+			"desc": "",
+			"filters": [],
+			"logo": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/others-logo-100x100-1.png"
+		}
+	},
+	"products": [{
+		"title": "\u0633\u0639\u0631 \u0648 \u0645\u0648\u0627\u0635\u0641\u0627\u062a Samsung Galaxy S10 Lite",
+		"author": "1",
+		"date": "2017-02-25 21:05:11",
+		"date_gmt": "2017-02-25 16:05:11",
+		"content": "\u062a\u0633\u0639\u0649 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0625\u0644\u0649 \u0627\u0644\u062a\u0645\u064a\u0632 \u062f\u0627\u0626\u0645\u0627 \u0641\u0642\u062f \u0623\u0635\u0628\u062d \u0625\u062a\u062c\u0627\u0647 \u0627\u0644\u0634\u0631\u0643\u0629 \u0627\u0644\u0622\u0646 \u0647\u0648 \u0627\u0646\u062a\u0627\u062c \u0641\u0644\u0627\u062c \u0634\u064a\u0628 \u0628\u0633\u0639\u0631 \u0631\u062e\u064a\u0635 \u0644\u062a\u062a\u0645\u0643\u0646 \u0628\u0630\u0644\u0643 \u0645\u0646 \u0645\u0646\u0627\u0641\u0633\u0629 \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0635\u064a\u0646\u064a\u0629 \u0627\u0644\u062a\u064a \u0623\u0635\u0628\u062d\u062a \u0645\u062a\u0645\u064a\u0632\u0629 \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0647\u0648\u0627\u062a\u0641 \u0627\u0644\u0630\u0643\u064a\u0629 \u0628\u0634\u0643\u0644 \u0643\u0628\u064a\u0631 \u0648\u0644\u0639\u0644 \u0627\u0644\u0623\u0643\u062b\u0631 \u062a\u0645\u064a\u0632\u0627\u064b \u0647\u064a \u0634\u0627\u0648\u0645\u064a \u0641\u0623\u0635\u0628\u062d\u062a \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u062a\u062a\u0628\u0646\u064a \u0646\u0641\u0633 \u0627\u0644\u0633\u064a\u0627\u0633\u0629 \u0644\u062a\u062a\u0645\u0643\u0646 \u0645\u0646 \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0648\u0628\u0646\u0627\u0621\u0627\u064b \u0639\u0644\u064a\u0647 \u0642\u062f \u0623\u0639\u0644\u0646\u062a \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0639\u0646 \u0647\u0627\u062a\u0641\u064a\u0647\u0627 \u0627\u0644\u0640 Note 10 Lite \u0648\u0627\u0644\u0640 Samsung Galaxy S10 Lite \u0641\u0645\u062b\u0644\u0645\u0627 \u062a\u0645\u064a\u0632 \u0627\u0644\u0646\u0648\u062a 10 \u0644\u0627\u064a\u062a \u0628\u0623\u0646\u0647 \u0623\u0631\u062e\u0635 \u0647\u0627\u062a\u0641 \u0645\u0646 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u064a\u062f\u0639\u0645 \u0627\u0644\u0642\u0644\u0645 \u0627\u0644\u0640 S Pen \u0641\u0647\u0627\u062a\u0641 S10 Lite \u0644\u062f\u064a\u0647 \u0645\u0627 \u064a\u0645\u064a\u0632\u0647 \u0623\u064a\u0636\u0627\u064b \u0641\u0647\u0648 \u0623\u0631\u062e\u0635 \u0647\u0627\u062a\u0641 \u0645\u0646 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0628\u0645\u0639\u0627\u0644\u062c Snapdragon 855 \u0633\u064a\u062a\u0645 \u062a\u0648\u0641\u064a\u0631\u0647 \u0628\u0634\u0643\u0644 \u0631\u0633\u0645\u064a \u0641\u064a \u0645\u0635\u0631 \u0641\u0627\u0644\u0647\u0627\u062a\u0641 \u064a\u0623\u062a\u064a \u0628\u0634\u0627\u0634\u0629 \u0639\u0644\u0649 \u0647\u064a\u0626\u0629 \u0627\u0644\u062b\u0642\u0628 \u0645\u0639 \u0643\u0627\u0645\u064a\u0631\u0627 \u0623\u0645\u0627\u0645\u064a\u0629 \u0628\u062f\u0642\u0629 32 \u0645\u064a\u062c\u0627 \u0628\u0643\u0633\u0644 \u0645\u0639 \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0628\u0627\u0644\u0623\u062f\u0627\u0621 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0639\u0627\u0644\u062c \u0627\u0644\u0631\u0627\u0626\u062f \u0643\u0645\u0627 \u0648\u0636\u062d\u0646\u0627 \u0645\u0633\u0628\u0642\u0627\u064b \u0641\u062f\u0639\u0648\u0646\u0627 \u0646\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0635\u0641\u0627\u062a \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u0644\u0647\u0627\u062a\u0641 Samsung Galaxy S10 Lite \u0648\u0645\u0627 \u0647\u064a \u0623\u0647\u0645 \u0645\u0645\u064a\u0632\u0627\u062a\u0647 \u0648\u0639\u064a\u0648\u0628\u0647 \u0639\u0644\u0649 \u0627\u0644\u0646\u062d\u0648 \u0627\u0644\u062a\u0627\u0644\u064a .&nbsp;&nbsp;&nbsp;&nbsp;\u0647\u0627\u062a\u0641 S10 Lite \u2013 \u0631\u0623\u0633 \u0627\u0644\u0634\u0627\u062d\u0646 \u0628\u0642\u0648\u0629 25 \u0648\u0627\u0637 \u2013 \u0633\u0644\u0643 USB \u0645\u0646 \u0646\u0648\u0639 Type C \u2013 \u0633\u0645\u0627\u0639\u0627\u062a \u0627\u0644\u0627\u0630\u0646 \u0628\u0645\u0646\u0641\u0630 \u0627\u0644\u0640 Type C \u2013 \u062f\u0628\u0648\u0633 \u0645\u0639\u062f\u0646\u064a \u2013 \u0643\u062a\u064a\u0628 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u064a\u0648\u0636\u062d \u0643\u064a\u0641\u064a\u0629 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 \u2013 \u062c\u0631\u0627\u0628 \u0638\u0647\u0631 \u0634\u0641\u0627\u0641 .&nbsp;\u0627\u0644\u0633\u0639\u0631 \u0641\u064a \u0645\u0635\u0631 \u062d\u0648\u0627\u0644\u064a 9350 \u062c\u0646\u064a\u0629 \u0644\u0644\u0646\u0633\u062e\u0629 128 \u062c\u064a\u062c\u0627 \u0645\u0639 8 \u062c\u064a\u062c\u0627 \u0631\u0627\u0645 .",
+		"status": "publish",
+		"comment_status": "open",
+		"image": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/Samsung-Galaxy-S10-Lite.jpg",
+		"gallery": ["http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/Samsung-Galaxy-S10-Lite-Cam-300x218-3.jpg", "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/Samsung-Galaxy-S10-Lite-Colors-300x218-3.jpg", "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/Samsung-Galaxy-S10-Lite-Battery-300x218-3.jpg", "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/S10-Lite-Cam-300x218-3.jpg", "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/Galaxy-S10-Lite-Cam-300x218-3.jpg"],
+		"meta": {
+			"aps-product-rating": {
+				"design": 8,
+				"display": 10,
+				"camera": 8,
+				"multimedia": 9,
+				"features": 9,
+				"connectivity": 10,
+				"call-quality": 10,
+				"usability": 8,
+				"performance": 9,
+				"battery": 8
+			},
+			"aps-product-rating-total": "8.9",
+			"aps-product-views": "11",
+			"protect_post": "0",
+			"onesignal_meta_box_present": "1",
+			"onesignal_send_notification": "",
+			"aps-product-price": "0",
+			"aps-product-sku": "",
+			"aps-product-stock": "InStock",
+			"aps-product-qty": "0",
+			"aps-product-on-sale": "no",
+			"aps-product-sale-price": "0",
+			"aps-product-sale-start": "",
+			"aps-product-sale-end": "",
+			"aps-features-style": "list",
+			"aps-product-features": [{
+				"name": "\u0627\u0644\u0645\u0639\u0627\u0644\u062c",
+				"icon": "cpu",
+				"value": "qualcom 500c"
+			}, {
+				"name": "\u0627\u0644\u062a\u062e\u0632\u064a\u0646 \/ \u0627\u0644\u0631\u0627\u0645",
+				"icon": "ram",
+				"value": "4 GB"
+			}, {
+				"name": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627",
+				"icon": "camera",
+				"value": "16 MP"
+			}, {
+				"name": "\u0627\u0644\u0634\u0627\u0634\u0629",
+				"icon": "display",
+				"value": "12&quot;"
+			}, {
+				"name": "\u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644",
+				"icon": "gears",
+				"value": "android 10"
+			}, {
+				"name": "\u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629",
+				"icon": "battery",
+				"value": "4500 MA"
+			}],
+			"aps-product-videos": [],
+			"aps-attr-group-438": {
+				"391": "galaxy s10 lite",
+				"392": "s10",
+				"393": "01-04-2020",
+				"394": " \u0645\u062a\u0627\u062d \u0644\u0644\u0628\u064a\u0639"
+			},
+			"aps-attr-group-440": {
+				"125": "Yes",
+				"126": "Yes",
+				"127": "Yes",
+				"439": "Yes",
+				"395": "\u0645\u0645\u062a\u0627\u0632\u0629",
+				"396": "sim",
+				"397": "Yes"
+			},
+			"aps-attr-group-441": {
+				"398": "161.8x75.8x8.7 \u0645\u0644\u0645",
+				"399": "195 \u062c\u0631\u0627\u0645",
+				"400": "\u0632\u062c\u0627\u062c",
+				"401": "\u0627\u0644\u0627\u0628\u064a\u0636 - \u0627\u0644\u0627\u062e\u0636\u0631",
+				"402": "No"
+			},
+			"aps-attr-group-442": {
+				"403": "AMOLED",
+				"404": "6.5 \u0628\u0648\u0635\u0629 \u0628\u062f\u0648\u0646 \u0627\u064a \u0646\u0648\u062a\u0634",
+				"405": "1080x2340",
+				"406": "16 \u0645\u0644\u064a\u0648\u0646 \u0644\u0648\u0646",
+				"407": "333",
+				"408": "\u062c\u0648\u0631\u064a\u0644\u0627 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u062e\u0627\u0645\u0633"
+			},
+			"aps-attr-group-443": {
+				"409": "\u0631\u0628\u0627\u0639\u064a\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 48 \u0645.\u0628 \u0628\u0641\u062a\u062d\u0629 \u0639\u062f\u0633\u0629 F\/1.7 \u0648\u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0644\u0644\u062a\u0635\u0648\u064a\u0631 \u0627\u0644\u0648\u0627\u0633\u0639 8 \u0645.\u0628 \u0628\u0641\u062a\u062d\u0629 \u0639\u062f\u0633\u0629 F\/2.2 \u0648\u0627\u0644\u062b\u0627\u0644\u062b\u0629 \u0644\u0644\u0639\u0632\u0644 2 \u0645.\u0628 \u0628\u0641\u062a\u062d\u0629 \u0639\u062f\u0633\u0629 F\/2.4 \u0648\u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0644\u0644\u0645\u0627\u0643\u0631\u0648 2 \u0645\u064a\u062c\u0627 \u0628\u0643\u0633\u0644 \u0628\u0641\u062a\u062d\u0629 \u0639\u062f\u0633\u0629 F\/2.4",
+				"410": "1080p@30fps, 720p@30fps",
+				"411": "HDR, panorama",
+				"412": "\u0645\u0632\u062f\u0648\u062c LED",
+				"413": "16 \u0645\u064a\u062c\u0627 \u0628\u0643\u0633\u0644 \u0641\u062a\u062d\u0629 \u0639\u062f\u0633\u0629 f\/2.0"
+			},
+			"aps-attr-group-444": {
+				"414": "Mediatek Helio P70 \u062b\u0645\u0627\u0646\u064a \u0627\u0644\u0646\u0648\u0627\u0629 \u0628\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 12 \u0646\u0627\u0646\u0648",
+				"415": "Mali-G72 MP3",
+				"416": "8 \u062c\u064a\u062c\u0627 \u0631\u0627\u0645",
+				"417": "128 \u062c\u064a\u062c\u0627 \u0628\u0627\u064a\u062a",
+				"418": "\u064a\u062f\u0639\u0645 \u062d\u062a\u0649 256 \u062c\u064a\u062c\u0627 \u0628\u0627\u064a\u062a \u0641\u064a \u0645\u0646\u0641\u0630 \u0645\u0646\u0641\u0635\u0644 \u0628\u0647",
+				"419": "\u0641\u064a \u0627\u0644\u0623\u0645\u0627\u0645\/\u0628\u0627\u0644\u0634\u0627\u0634\u0629",
+				"420": "\u0633\u0631\u064a\u0639\u0629",
+				"421": "Yes",
+				"422": "\u0627\u0644\u0628\u0635\u0645\u0629 \u0645\u062f\u0645\u062c\u0629 \u0628\u0627\u0644\u0634\u0627\u0634\u0629 , \u0627\u0644\u062a\u0633\u0627\u0631\u0639 , \u0627\u0644\u0642\u0631\u0628 , \u0627\u0644\u0628\u0648\u0635\u0644\u0629 , \u0627\u0644\u062c\u064a\u0631\u0648\u0633\u0643\u0648\u0628"
+			},
+			"aps-attr-group-445": {
+				"423": "ANDROID 10",
+				"424": "ColorOS 6.1"
+			},
+			"aps-attr-group-446": {
+				"425": "4000",
+				"426": "\u063a\u064a\u0631 \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0627\u0632\u0627\u0644\u0629",
+				"427": "Yes",
+				"428": "20 \u0648\u0627\u0637",
+				"430": "Yes"
+			},
+			"aps-attr-group-447": {
+				"431": "v4.2",
+				"253": "Wi-Fi 802.11 a\/b\/g\/n\/ac, dual-band, Wi-Fi Direct, hotspot",
+				"254": "Yes",
+				"240": "Type C \u0643\u0645\u0627 \u064a\u062f\u0639\u0645 \u0627\u0644\u0640 OTG",
+				"195": "Yes",
+				"432": "with A-GPS, GLONASS, BDS",
+				"183": "No"
+			},
+			"aps-attr-group-448": {
+				"433": "Mono \/ \u0633\u0645\u0627\u0639\u0629 \u0648\u0627\u062d\u062f\u0629",
+				"434": "\u0639\u0627\u0644\u064a",
+				"435": "No",
+				"436": "\u064a\u062f\u0639\u0645 \u0645\u062f\u062e\u0644 3.5 \u0645\u0645",
+				"437": "\u0646\u0639\u0645"
+			},
+			"aps-product-offers": [],
+			"aps-custom-tabs": [],
+			"slide_template": "default",
+			"_wp_old_slug": "%d8%b3%d8%b9%d8%b1-%d9%88-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-samsung-galaxy-s10-lite__trashed",
+			"_bf_post_css_cached_1385": "1587039623",
+			"better-views-count": "1"
+		},
+		"terms": {
+			"aps-brands": ["samsung"],
+			"aps-cats": ["%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b0%d9%83%d9%8a%d8%a9"]
+		}
+	}, {
+		"title": "\u0633\u0639\u0631 \u0648 \u0645\u0648\u0627\u0635\u0641\u0627\u062a Samsung Galaxy M30",
+		"author": "1",
+		"date": "2017-02-25 21:05:11",
+		"date_gmt": "2017-02-25 16:05:11",
+		"content": "\u062a\u0645\u0643\u0646\u062a \u0634\u0631\u0643\u0629 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0645\u0646 \u062e\u0644\u0642 \u0645\u0646\u0627\u0641\u0633\u0629 \u062d\u0642\u064a\u0642\u0629 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0625\u0637\u0644\u0627\u0642\u0647\u0627 \u0644\u0633\u0644\u0633\u062a\u0647\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629 \u0627\u0644\u0640 Galaxy M \u062d\u064a\u062b \u0623\u0639\u0644\u0646\u062a \u0627\u0644\u0634\u0631\u0643\u0629 \u0623\u0646 \u0647\u0630\u0647 \u0627\u0644\u0633\u0644\u0633\u0644\u0629 \u0645\u0648\u062c\u0647 \u0639\u0644\u0649 \u0627\u0644\u0623\u062e\u0635 \u0644\u0641\u0626\u0629 \u0627\u0644\u0634\u0628\u0627\u0628 \u062d\u064a\u062b \u0648\u0641\u0631\u062a \u0627\u0644\u0634\u0631\u0643\u0629 \u062b\u0644\u0627\u062b\u0629 \u0647\u0648\u0627\u062a\u0641 \u062c\u062f\u064a\u062f\u0629 \u062d\u062a\u0649 \u0627\u0644\u0622\u0646 \u0641\u064a \u062a\u0644\u0643 \u0627\u0644\u0633\u0644\u0633\u0644\u0629 \u062d\u064a\u062b \u0648\u0641\u0631\u062a \u0627\u0644\u0640 Galaxy M10 \u0648\u0627\u0644\u0640 Galaxy M20 \u0648\u0627\u0644\u0640 Galaxy M30 \u0641\u0645\u062b\u0644\u0627\u064b \u0645\u0639 \u0647\u0627\u062a\u0641 Galaxy M10 \u0623\u062e\u064a\u0631\u0627\u064b \u0625\u0633\u062a\u0637\u0627\u0639\u062a \u0634\u0631\u0643\u0629 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0623\u0646 \u062a\u0648\u0641\u0631 \u0647\u0627\u062a\u0641\u0627\u064b \u0630\u0643\u064a\u0627\u064b \u0628\u0633\u0639\u0631 \u0645\u0642\u0628\u0648\u0644 \u0645\u0642\u0627\u0631\u0646\u0629 \u0628\u0645\u0648\u0627\u0635\u0641\u0627\u062a\u0647 \u0644\u062a\u0633\u062a\u0637\u064a\u0639 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0645\u0639 \u0634\u0627\u0648\u0645\u064a \u0648\u0631\u064a\u0644\u0645\u064a \u0628\u0634\u0643\u0644 \u062e\u0627\u0635 \u0633\u0646\u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u064a\u0648\u0645 \u0623\u062d\u062f\u062b \u0647\u0648\u0627\u062a\u0641\u0647\u0627 \u0627\u0644\u0640 Galaxy M30 \u0648\u0645\u0627\u0647\u064a \u0627\u0644\u0627\u0646\u0637\u0628\u0627\u0639\u0627\u062a \u0627\u0644\u0623\u0648\u0644\u064a\u0629 \u0639\u0646\u0647 \u0648\u0623\u0647\u0645 \u0645\u0645\u064a\u0632\u0627\u062a\u0647 \u0648\u0639\u064a\u0648\u0628\u0647 \u0648\u0647\u0644 \u0633\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u0647\u0627\u062a\u0641 \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0645\u0639 \u0627\u0644\u0647\u0648\u0627\u062a\u0641 \u0627\u0644\u0623\u062e\u0631\u0649 \u0645\u0639 \u0639\u0631\u0636 \u0627\u0644\u0645\u0648\u0627\u0635\u0641\u0627\u062a \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u0644\u0647\u0627\u062a\u0641 Galaxy M30 \u0639\u0644\u0649 \u0627\u0644\u0646\u062d\u0648 \u0627\u0644\u062a\u0627\u0644\u064a .&nbsp;&nbsp;&nbsp;&nbsp;\u0647\u0627\u062a\u0641 Samsung Galaxy M30 \u2013 \u0631\u0627\u0633 \u0627\u0644\u0634\u0627\u062d\u0646 \u0648\u064a\u062f\u0639\u0645 \u0627\u0644\u0634\u062d\u0646 \u0627\u0644\u0633\u0631\u064a\u0639 15 \u0648\u0627\u0637 \u2013 \u0633\u0644\u0643 USB \u0645\u0646 \u0646\u0648\u0639 Type C \u2013 \u0643\u062a\u064a\u0628 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0648\u0627\u0644\u0636\u0645\u0627\u0646 \u064a\u0648\u0636\u062d \u0643\u064a\u0641\u064a\u0629 \u0625\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 \u2013 \u062f\u0628\u0648\u0633 \u0645\u0639\u062f\u0646\u064a \u0644\u0641\u062a\u062d \u0645\u0646\u0641\u0630 \u0634\u0631\u064a\u062d\u062a\u064a \u0627\u0644\u0625\u062a\u0635\u0627\u0644 \u0648\u0643\u0627\u0631\u062a \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 .&nbsp;\u0644\u0646 \u064a\u062a\u0645 \u062a\u0648\u0641\u064a\u0631 \u0627\u0644\u0647\u0627\u062a\u0641 \u0628\u0634\u0643\u0644 \u0631\u0633\u0645\u064a \u0641\u064a \u0645\u0635\u0631 .",
+		"status": "publish",
+		"comment_status": "open",
+		"image": "http:\/\/abdallaho8.sg-host.com\/wp-content\/uploads\/2020\/04\/samsung-galaxy-m30.jpg",
+		"gallery": [],
+		"meta": {
+			"aps-product-rating": {
+				"design": 9,
+				"display": 8,
+				"camera": 10,
+				"multimedia": 10,
+				"features": 10,
+				"connectivity": 10,
+				"call-quality": 10,
+				"usability": 10,
+				"performance": 9,
+				"battery": 9
+			},
+			"aps-product-rating-total": "9.5",
+			"protect_post": "0",
+			"onesignal_meta_box_present": "1",
+			"onesignal_send_notification": "",
+			"aps-product-price": "0",
+			"aps-product-sku": "",
+			"aps-product-stock": "InStock",
+			"aps-product-qty": "0",
+			"aps-product-on-sale": "no",
+			"aps-product-sale-price": "0",
+			"aps-product-sale-start": "",
+			"aps-product-sale-end": "",
+			"aps-features-style": "list",
+			"aps-product-features": [{
+				"name": "\u0627\u0644\u0645\u0639\u0627\u0644\u062c",
+				"icon": "cpu",
+				"value": "DFGESF"
+			}, {
+				"name": "\u0627\u0644\u062a\u062e\u0632\u064a\u0646 \/ \u0627\u0644\u0631\u0627\u0645",
+				"icon": "ram",
+				"value": "SFGSEG"
+			}, {
+				"name": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627",
+				"icon": "camera",
+				"value": "GWERW6"
+			}, {
+				"name": "\u0627\u0644\u0634\u0627\u0634\u0629",
+				"icon": "display",
+				"value": "5434TGREWRFE4534534"
+			}, {
+				"name": "\u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644",
+				"icon": "gears",
+				"value": "34T34"
+			}, {
+				"name": "\u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629",
+				"icon": "battery",
+				"value": "RTER545"
+			}],
+			"aps-product-videos": [],
+			"aps-attr-group-438": {
+				"391": "DFHDFH",
+				"392": "TREFD534",
+				"393": "28-04-2020",
+				"394": "VDF"
+			},
+			"aps-attr-group-440": {
+				"125": "Yes",
+				"126": "Yes",
+				"127": "Yes",
+				"439": "Yes",
+				"395": "FWEG",
+				"396": "FWETG",
+				"397": "Yes"
+			},
+			"aps-attr-group-441": {
+				"398": "WFWGQ",
+				"399": "FDWHR",
+				"400": "WGWH",
+				"401": "\u0642\u062b\u0642\u063a\u0627\u0642\u062b",
+				"402": "Yes"
+			},
+			"aps-attr-group-442": {
+				"403": "\u0628\u0644\u062b\u063a(-",
+				"404": "\u062b\u0642\u0644\u0635\u062b\u0642\u0644(",
+				"405": "\u0628\u0644\u0627\u062b\u064a",
+				"406": "\u0627\u0642\u0633\u0641\u0627\u0644\u0627\u0635",
+				"407": "\u062b\u0628\u0644\u0635\u0641\u062a",
+				"408": "\u0644\u0628\u0635\u0642\u063a\u062a"
+			},
+			"aps-attr-group-443": {
+				"409": "\u0633\u064a\u0644\u0635",
+				"410": "\u0634\u0633\u0642\u0627",
+				"411": "\u0634\u0633\u0644\u062a",
+				"412": "\u062a\u062a\u062a\u0646\u0646\u0641",
+				"413": "\u0635\u062b\u0647"
+			},
+			"aps-attr-group-444": {
+				"414": "\u0634\u0644\u0635\u062b\u0642\u0627\u0635\u0641\u062b\u062a\u0646\u0634",
+				"415": "\u0634\u0633\u0642\u0635\u062b\u0641",
+				"416": "\u0646\u064a\u0644\u0627\u0634",
+				"417": "\u0633\\\u0644",
+				"418": "\u0634\u0633\u0639\u0639\u0639\u062e\u063a",
+				"419": "\u0634\u0633\u064a\u0628\u0642\u0627",
+				"420": "\u0635\u062b\u0636\u0635\u0642",
+				"421": "Yes",
+				"422": "\u0634\u0642\u0635\u0627\u062b\u0642\u0627"
+			},
+			"aps-attr-group-445": {
+				"423": "\u0634\u0633\u0644\u0642",
+				"424": "\u0634\u0633\u0627"
+			},
+			"aps-attr-group-446": {
+				"425": "\u0635\u0644\u0635\u0644",
+				"426": "\u0628\u0635\u062b\u0644\u0635\u0636\u0644",
+				"427": "Yes",
+				"428": "\u0634\u0633\u0644\u0636\u062b",
+				"430": "Yes"
+			},
+			"aps-attr-group-447": {
+				"431": "\u0634\u0644\u0634\u062b\u0642\u0627",
+				"253": "\u0627\u0634\u062b\u064a\u0644\u0633\u0628",
+				"254": "Yes",
+				"240": "\u0634\u0644\u0642\u0634\u063a\u0627\u0635\u0634",
+				"195": "Yes",
+				"432": "\u0634\u0633\u064a\u0644\u0634\u0633\u0627",
+				"183": "Yes"
+			},
+			"aps-attr-group-448": {
+				"433": "\u0634\u0644\u0636\u0635\u0644\u0634\u0633\u064a",
+				"434": "\u0634\u0633\u0644\u0634\u0633",
+				"435": "Yes",
+				"436": "\u0627\u062e\u0643\u0647\u062a\u0643\u0645\u062a\u0644\u0633\u0642\u0641\u062a",
+				"437": "\u0646\u0647\u062b\u0641\u063a\u0646\u0629"
+			},
+			"aps-product-offers": [],
+			"aps-custom-tabs": [],
+			"slide_template": "default",
+			"aps-product-views": "4",
+			"_wp_old_slug": "%d8%b3%d8%b9%d8%b1-%d9%88-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-samsung-galaxy-m30__trashed",
+			"_bf_post_css_cached_1420": "1586995460"
+		},
+		"terms": {
+			"aps-brands": ["samsung"],
+			"aps-cats": ["%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b0%d9%83%d9%8a%d8%a9"]
+		}
+	}]
+}
